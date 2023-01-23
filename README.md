@@ -1,4 +1,9 @@
 # 💳 Credit Card Validator
+
+**⚠️ Warning: this project is under maintenance.**
+
+*🚧 Both the credit card validator and the generator will be implemented.*
+
 > This python package is inspired by [Luhn](https://github.com/amm834/luhn).
 
 Luhn is a `Python` Package that can validate Credit Card.
