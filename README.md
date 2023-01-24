@@ -1,15 +1,10 @@
-# 💳 Credit Card Validator
+# 💳 CCVAG
+> This python package is inspired by [Luhn](https://github.com/amm834/luhn) and [Panify](https://github.com/amm834/panify).
 
-**⚠️ Warning: this project is under maintenance.**
-
-*🚧 Both the credit card validator and the generator will be implemented.*
-
-> This python package is inspired by [Luhn](https://github.com/amm834/luhn).
-
-Luhn is a `Python` Package that can validate Credit Card.
+`CCVAG` stands for Credit Card Validator and Generator.
 
 # Content
-- [💳 Credit Card Validator](#-credit-card-validator)
+- [💳 CCVAG](#-ccvag)
 - [Content](#content)
 - [Installation](#installation)
 - [Uses](#uses)
@@ -23,7 +18,20 @@ python -m pip install ccvag
 ```
 
 # Uses
-You can use `validate` function passing credit card number as `string`.
+After [Installation](#installation) process, you can import `validator` or `generator` from `ccvag`.
+
+```python
+from ccvag import validator, generator
+
+# Validate the credit card
+print(validator('4242424242424242'))
+
+# Generate the credit cards
+# First Arg - must be the first-sixth number which you might choose to enter by yourself
+# Second Arg - would be the count which the function will generate
+print(generator('424242', 50))
+
+```
 
 # Troubleshooting
 Create an issue upon your error that is associated with this project.
