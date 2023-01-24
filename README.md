@@ -19,7 +19,7 @@ Luhn is a `Python` Package that can validate Credit Card.
 
 # Installation
 ```bash
-python -m pip install luhn-credit-card-validator
+python -m pip install ccvag
 ```
 
 # Uses
