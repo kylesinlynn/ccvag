@@ -3,12 +3,12 @@ requires = ["setuptools>=61.0"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "luhn-credit-card-validator"
-version = "0.0.2"
+name = "ccvag"
+version = "0.1.0"
 authors = [
     {name = "Kyle Sin Lynn", email = "kylesinlynn@gmail.com"},
 ]
-description = "Credit Card Validator using Luhn Algorithm"
+description = "Credit Card Validator and Generator"
 readme = "README.md"
 license = { file = "LICENSE" }
 requires-python = ">=3.8"
