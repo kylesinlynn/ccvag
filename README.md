@@ -40,4 +40,4 @@ Create an issue upon your error that is associated with this project.
 Feel free to fork and create pull requests. Your contribution will be appreciated.
 
 # License
-This project is licensed under [BSD License](LICENSE).
+This project is licensed under [BSD License](https://github.com/kylesinlynn/ccvag/blob/release-v0.1.0/LICENSE).
