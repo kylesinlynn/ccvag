@@ -3,8 +3,12 @@
 
 `CCVAG` stands for Credit Card Validator and Generator.
 
+## 🔔 Notification
+You are in the `main` branch which is intended for development. Go to [Releases](https://github.com/kylesinlynn/ccvag/releases) for released version of this project.
+
 # Content
 - [💳 CCVAG](#-ccvag)
+  - [🔔 Notification](#-notification)
 - [Content](#content)
 - [Installation](#installation)
 - [Uses](#uses)
